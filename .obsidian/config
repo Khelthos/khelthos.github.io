@@ -1,0 +1,55 @@
+{
+  "theme": "obsidian",
+  "pluginEnabledStatus": {
+    "File explorer": true,
+    "Search": true,
+    "Quick switcher": true,
+    "Graph view": true,
+    "Backlinks": true,
+    "Command palette": true,
+    "Markdown format importer": true,
+    "Word count": true
+  },
+  "lastOpenSidebarTab": "File explorer",
+  "isSidebarCollapsed": false,
+  "isRightSidedockCollapsed": true,
+  "workspaceLayout": {
+    "id": "bfb1dc10ab80a171",
+    "type": "split",
+    "dimension": null,
+    "direction": "vertical",
+    "children": [
+      {
+        "id": "523ba92f5db7aa05",
+        "type": "leaf",
+        "dimension": null,
+        "active": false,
+        "master": "",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "4f9071d4f0a4d501",
+        "type": "leaf",
+        "dimension": null,
+        "active": true,
+        "master": "",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ]
+  },
+  "lastOpenFiles": [
+    "README.md"
+  ]
+}
