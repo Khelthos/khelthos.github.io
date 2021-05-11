@@ -1,6 +1,6 @@
 {
   "name": "simplefolio",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A clean, beautiful and responsive portfolio template for Developers!",
   "main": "index.js",
   "scripts": {
@@ -38,6 +38,12 @@
     "bootstrap": "^4.4.1",
     "jquery": "^3.4.1",
     "popper.js": "^1.16.1",
-    "tilt.js": "^1.2.1"
+    "tilt.js": "^1.2.1",
+    "elliptic": "^6.5.4",
+    "is-svg": "^4.2.2",
+    "y18n": "^4.0.1",
+    "url-parse": "^1.5.0",
+    "lodash": "^4.17.21",
+    "hosted-git-info": "^2.8.9"
   }
 }
