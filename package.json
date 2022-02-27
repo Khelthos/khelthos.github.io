@@ -42,7 +42,7 @@
     "elliptic": "^6.5.4",
     "is-svg": "^4.2.2",
     "y18n": "^4.0.1",
-    "url-parse": "^1.5.0",
+    "url-parse": "^1.5.8",
     "lodash": "^4.17.21",
     "hosted-git-info": "^2.8.9"
   }
