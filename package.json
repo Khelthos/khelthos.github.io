@@ -36,7 +36,7 @@
   },
   "dependencies": {
     "bootstrap": "^4.4.1",
-    "elliptic": "^6.5.4",
+    "elliptic": "^6.6.1",
     "hosted-git-info": "^2.8.9",
     "is-svg": "^4.2.2",
     "jquery": "^3.4.1",
